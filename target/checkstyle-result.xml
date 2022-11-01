@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/mattpark/Downloads/hw06_local_temp/src/main/java/org/cis120/Test.java">
+</file>
+<file name="/Users/mattpark/Downloads/hw06_local_temp/src/main/java/org/cis120/Test1.java">
+<error line="3" column="8" severity="warning" message="Unused import - com.sun.security.ntlm.Server." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="474" column="17" severity="warning" message="Name &apos;ChannelValue&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="524" column="17" severity="warning" message="Name &apos;ChannelValue&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="572" column="17" severity="warning" message="Name &apos;ChannelValue&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+</checkstyle>
